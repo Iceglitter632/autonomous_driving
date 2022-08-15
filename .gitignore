@@ -1,0 +1,13 @@
+train_data/*
+training_data_new/*
+gdrive
+app-ras/models/*
+app-ras/runs/*
+app-ras/test_data/*
+app-ras/test_data2/*
+app-ras/training_data/*
+app-ras/val_data/*
+app-ras/val_data2/*
+app-ras/README.md
+__pycache__
+.ipynb_checkpoints
